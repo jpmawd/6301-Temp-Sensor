@@ -34,10 +34,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Temperature Sensor"
 Date ""
 Rev ""
-Comp ""
+Comp "Jimmy Mawdsley, MIT"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -622,7 +622,7 @@ Wire Wire Line
 	2200 2300 2200 2050
 Connection ~ 2200 2300
 Text Label 2200 2050 0    60   ~ 0
-3.3V
+3.0V
 Connection ~ 1400 3550
 NoConn ~ 10550 2750
 NoConn ~ 10550 2950
